@@ -1,7 +1,7 @@
 module.exports = {
     title: '云云对接说明',
     description: '云云对接过程描述及注意事项',
-    base：'/thirdCloudDevice/',
+    base:'/thirdCloudDevice/',
 
     locales: {
         // 键名是该语言所属的子路径
