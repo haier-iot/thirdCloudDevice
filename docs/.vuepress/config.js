@@ -17,7 +17,11 @@ module.exports = {
           description: '云云对接过程描述及注意事项'
         }
       },
-	  
+
+      //代码块显示行号
+      markdown: {
+        lineNumbers: true
+      },
 
     //多语言皮肤配置
      themeConfig: {
